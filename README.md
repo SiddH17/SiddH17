@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SiddH17
-- 👀 I’m interested in coding, playing video games and watching/playing football
+- 👀 I’m interested in coding, playing football and just living life to the fullest!
 - 🌱 I’m currently learning C++ and Python. I'm quite interested in Full Stack Development and thinking of specialising in the same.
 
 <!---
